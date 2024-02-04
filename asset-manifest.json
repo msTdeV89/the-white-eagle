@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%7Brepo-name%7D/static/css/main.05711876.css",
+    "main.js": "/%7Brepo-name%7D/static/js/main.186502d5.js",
+    "static/media/mainhall3.jpg": "/%7Brepo-name%7D/static/media/mainhall3.5e7fc9af23c94ad76094.jpg",
+    "static/media/smallroom.png": "/%7Brepo-name%7D/static/media/smallroom.ffb4c5634c55d72d457d.png",
+    "static/media/mainhall4.jpg": "/%7Brepo-name%7D/static/media/mainhall4.7df285bf3d760928f677.jpg",
+    "static/media/minibar2.png": "/%7Brepo-name%7D/static/media/minibar2.a631d80d6613494ad714.png",
+    "static/media/darts.png": "/%7Brepo-name%7D/static/media/darts.b1c5064c2d0efa97ef46.png",
+    "static/media/event.png": "/%7Brepo-name%7D/static/media/event.d62df4e74523a327ebe9.png",
+    "static/media/hero-pattern.jpg": "/%7Brepo-name%7D/static/media/hero-pattern.b944fbe56ba06c5a465f.jpg",
+    "static/media/snooker.png": "/%7Brepo-name%7D/static/media/snooker.ae42c067c7a2724e5196.png",
+    "static/media/mainhall2.jpg": "/%7Brepo-name%7D/static/media/mainhall2.e4aa859298e1367c12d4.jpg",
+    "static/media/mainhall1.jpg": "/%7Brepo-name%7D/static/media/mainhall1.7c3d914a88517df573d5.jpg",
+    "static/media/minibar.png": "/%7Brepo-name%7D/static/media/minibar.1dcb5ce491595ecaea4f.png",
+    "static/media/member.jpg": "/%7Brepo-name%7D/static/media/member.ce7e422b3a208acbc21b.jpg",
+    "static/media/logo.png": "/%7Brepo-name%7D/static/media/logo.a3b3f6cd3ad3b3f279b5.png",
+    "index.html": "/%7Brepo-name%7D/index.html",
+    "main.05711876.css.map": "/%7Brepo-name%7D/static/css/main.05711876.css.map",
+    "main.186502d5.js.map": "/%7Brepo-name%7D/static/js/main.186502d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05711876.css",
+    "static/js/main.186502d5.js"
+  ]
+}
